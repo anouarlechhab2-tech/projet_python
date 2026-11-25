@@ -1,0 +1,302 @@
+etablissement,type,ville,latitude,longitude,effectif,date_releve
+College Dubois,College,Nice,43.7396,7.2339,225,2026-03-24
+Ecole primaire Dubois,Ecole primaire,Annecy,45.8881,6.1276,666,2026-01-16
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-04-21
+Creche Petit,Creche,Perpignan,42.6872,2.8663,319,2026-05-06
+Creche Lambert,Creche,Metz,49.1360,6.1760,386,2026-02-11
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,305,2026-04-11
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-01-28
+Creche Roux,Creche,Annecy,45.8819,6.1190,1138,2026-04-06
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-04-13
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-04-07
+Lycee Petit,Lycee,Reims,49.2391,4.0474,1173,2026-05-02
+Lycee Petit,Lycee,Quimper,48.0238,-4.1131,1198,2026-06-05
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-05-26
+Lycee Bonnet,Lycee,Angers,47.4666,-0.5414,274,2026-01-25
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-06-17
+Ecole primaire Vincent,Ecole primaire,Brest,48.4203,-4.4786,283,2026-06-10
+Ecole primaire Vincent,Ecole primaire,Orleans,47.9185,1.9199,956,2026-05-04
+Ecole primaire Vincent,Ecole primaire,Brest,48.4203,-4.4786,283,2026-01-11
+Creche Martin,Creche,Nice,43.7262,7.2878,1020,2026-05-02
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-02-07
+Centre de loisirs Leroy,Centre de loisirs,Quimper,48.0064,-4.0982,914,2026-02-04
+Creche Petit,Creche,Bordeaux,44.8243,-0.5836,255,2026-02-17
+Centre de loisirs Chevalier,Centre de loisirs,Lorient,47.7590,-3.3532,1134,2026-06-28
+Lycee Chevalier,Lycee,Bayonne,43.5103,-1.4477,684,2026-06-27
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-04-25
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-02-06
+Lycee Michel,Lycee,Chambery,45.5679,5.9069,1058,2026-05-21
+Ecole primaire Fontaine,Ecole primaire,Tours,47.4141,0.7113,1126,2026-01-27
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-02-07
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,305,2026-02-10
+Centre de loisirs Vincent,Centre de loisirs,Vannes,47.6463,-2.7393,384,2026-02-15
+Centre de loisirs Chevalier,Centre de loisirs,Lorient,47.7590,-3.3532,1134,2026-02-14
+Lycee Petit,Lycee,Reims,49.2391,4.0474,1173,2026-04-15
+Ecole primaire Roux,Ecole primaire,Angers,47.5013,-0.5791,291,2026-02-11
+Creche Martin,Creche,Nice,43.7262,7.2878,1020,2026-05-13
+Creche Martin,Creche,Nice,43.7262,7.2878,1020,2026-06-09
+Lycee Chevalier,Lycee,Bayonne,43.5103,-1.4477,684,2026-01-18
+Ecole primaire Vincent,  ECOLE PRIMAIRE  , orleans ,47.9185,1.9199,956,2026-01-09
+Centre de loisirs Lambert,Centre de loisirs,Nantes,47.2467,-1.5380,966,2026-06-17
+Creche Roux,Creche,Annecy,45.8819,6.1190,1138,2026-05-25
+Centre de loisirs Vincent,Centre de loisirs,Vannes,47.6463,-2.7393,384,2026-04-22
+Creche Lambert,Creche,Lorient,47.7481,-3.3477,510,2026-01-18
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-05-12
+Lycee Chevalier,Lycee,Bayonne,43.5103,-1.4477,684,2026-01-13
+Ecole primaire Dubois,Ecole primaire,Annecy,45.8881,6.1276,666,2026-03-05
+Centre de loisirs Fontaine,Centre de loisirs,Strasbourg,48.5945,7.7455,775,2026-05-10
+Ecole primaire Blanc,Ecole primaire,Bayonne,43.4744,-1.5014,425,2026-02-02
+Ecole primaire Dubois,Ecole primaire,Annecy,45.8881,6.1276,666,2026-06-22
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-04-17
+Centre de loisirs Fontaine,Centre de loisirs,Strasbourg,48.5945,7.7455,775,2026-02-10
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-06-20
+Lycee Bonnet,Lycee,Angers,47.4666,-0.5414,274,2026-06-24
+Centre de loisirs Roux,Centre de loisirs,Reims,49.2859,4.0507,1121,2026-06-17
+Centre de loisirs Dubois,Centre de loisirs,Grenoble,45.1974,5.7210,703,2026-02-12
+Ecole primaire Petit,Ecole primaire,Colmar,48.0913,7.3346,1119,2026-06-06
+Creche Bonnet,Creche,Rennes,48.1159,-1.6573,482,2026-02-13
+Creche Petit,Creche,Perpignan,42.6872,2.8663,319,2026-02-14
+Centre de loisirs Lambert,Centre de loisirs,Nantes,47.2467,-1.5380,966,2026-03-08
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-02-02
+Ecole primaire Vincent,Ecole primaire,Orleans,47.9185,1.9199,956,2026-05-01
+Lycee Martin,Lycee,Limoges,45.8584,1.2436,1011,2026-02-15
+Ecole primaire Girard,Ecole primaire,Chambery,45.5379,5.9475,767,2026-06-17
+,,,,,,
+Lycee Petit,Lycee,Reims,49.2391,4.0474,1173,2026-05-20
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,305,2026-02-01
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,abc,1116,2026-04-01
+Creche Petit,Creche,Amiens,49.8753,2.2807,106,2026-02-04
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,305,2026-03-06
+Ecole primaire Dubois,Ecole primaire,Annecy,45.8881,6.1276,666,2026-03-28
+Centre de loisirs Dubois,Centre de loisirs,Grenoble,45.1974,5.7210,703,2026-06-03
+College Rousseau,College,Rouen,49.4259,1.1070,598,2026-05-24
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-05-23
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-02-21
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-02-25
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-06-26
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-06-09
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-06-02
+College Girard,College,Rouen,49.4659,1.1109,898,2026-06-08
+Lycee Bonnet,Lycee,Angers,47.4666,-0.5414,274,2026-06-15
+Lycee Martin,Lycee,Limoges,45.8584,1.2436,1011,2026-03-13
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-05-17
+Ecole primaire Vincent,Ecole primaire,Brest,48.4203,-4.4786,283,2026-04-22
+Lycee Petit,Lycee,Quimper,48.0238,-4.1131,1198,2026-01-14
+College Rousseau,College,Rouen,49.4259,1.1070,598,2026-01-23
+Creche Martin,Creche,Nice,43.7262,7.2878,1020,2026-04-08
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-05-25
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-04-09
+Lycee Michel,Lycee,Chambery,45.5679,5.9069,1058,2026-04-20
+Ecole primaire Girard,Ecole primaire,Chambery,45.5379,5.9475,767,2026-05-22
+Ecole primaire Fontaine,Ecole primaire,Tours,47.4141,0.7113,-50,2026-05-28
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-02-18
+Centre de loisirs Chevalier,Centre de loisirs,Lorient,47.7590,-3.3532,1134,2026-03-26
+Centre de loisirs Lambert,Centre de loisirs,Nantes,47.2467,-1.5380,966,2026-03-18
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-03-09
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-03-05
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-04-27
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-04-03
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-03-06
+Ecole primaire Fontaine,Ecole primaire,Tours,47.4141,0.7113,1126,2026-04-13
+Centre de loisirs Fontaine,Centre de loisirs,Strasbourg,48.5945,7.7455,775,2026-02-17
+Centre de loisirs Lambert,Centre de loisirs,Nantes,47.2467,-1.5380,966,2026-03-27
+Creche Lambert,Creche,Lorient,47.7481,-3.3477,510,2026-05-08
+College Dubois,College,Nice,43.7396,7.2339,225,2026-03-25
+Ecole primaire Vincent,Ecole primaire,Brest,48.4203,-4.4786,283,2026-01-10
+College Girard,College,Orleans,47.9303,1.9321,1049,2026-06-13
+,Ecole primaire,Chambery,45.5379,5.9475,767,2026-01-08
+Creche Lambert,Creche,Metz,49.1360,6.1760,386,2026-06-03
+Creche Martin,Creche,Nice,43.7262,7.2878,1020,2026-04-19
+Ecole primaire Blanc,Ecole primaire,Bayonne,43.4744,-1.5014,425,2026-02-14
+Lycee Petit,Lycee,Reims,49.2391,4.0474,1173,2026-04-15
+Ecole primaire Vincent,Ecole primaire,Orleans,47.9185,1.9199,956,2026-02-26
+Lycee Petit,Lycee,Quimper,48.0238,-4.1131,1198,2026-02-11
+Centre de loisirs Lambert,Centre de loisirs,Nantes,47.2467,-1.5380,966,2026-02-02
+Centre de loisirs Roux,Centre de loisirs,Reims,49.2859,4.0507,1121,2026-06-11
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-03-19
+Ecole primaire Fontaine,Ecole primaire,Tours,47.4141,0.7113,1126,2026-03-28
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-06-21
+Creche Lambert,Creche,Metz,49.1360,6.1760,386,2026-03-23
+Lycee Fournier,Lycee,Angers,47.4701,-0.5818,839,2026-02-12
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,305,2026-02-15
+Centre de loisirs Bonnet,Centre de loisirs,Brest,999.99,-4.4659,1118,2026-04-07
+College Girard,College,Rouen,49.4659,1.1109,898,2026-04-23
+Centre de loisirs Fontaine,Centre de loisirs,Strasbourg,48.5945,7.7455,775,2026-04-06
+Creche Lambert,Creche,Metz,49.1360,6.1760,386,2026-03-10
+College Blanc,College,Chambery,45.5504,5.9003,779,2026-02-14
+Centre de loisirs Chevalier,Centre de loisirs,Lorient,47.7590,-3.3532,1134,2026-05-12
+Ecole primaire Fontaine,Ecole primaire,Tours,47.4141,0.7113,1126,2026-01-13
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-04-01
+College Dubois,College,Nice,43.7396,7.2339,225,2026-01-18
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,305,2026-06-04
+Centre de loisirs Lambert,Centre de loisirs,Nantes,47.2467,-1.5380,966,2026-05-07
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-03-05
+Creche Petit,Creche,Bordeaux,44.8243,-0.5836,255,2026-01-09
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-05-25
+Ecole primaire Girard,Ecole primaire,Chambery,45.5379,5.9475,767,2026-05-10
+Ecole primaire Vincent,Ecole primaire,Brest,48.4203,-4.4786,283,2026-06-15
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-04-14
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-06-20
+Lycee Martin,Lycee,Limoges,45.8584,1.2436,1011,2026-01-15
+Ecole primaire Dubois,Ecole primaire,Annecy,45.8881,6.1276,666,2026-05-20
+Lycee Petit,Lycee,Quimper,48.0238,-4.1131,1198,2026-05-20
+Creche Petit,Creche,Amiens,49.8753,2.2807,zero,2026-02-01
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-01-01
+Centre de loisirs Fontaine,Centre de loisirs,Strasbourg,48.5945,7.7455,775,2026-05-11
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-05-11
+Centre de loisirs Leroy,Centre de loisirs,Quimper,48.0064,-4.0982,914,2026-06-04
+College Dubois,College,Nice,43.7396,7.2339,225,2026-02-17
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-01-23
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-05-05
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-03-04
+Lycee Petit,Lycee,Quimper,48.0238,-4.1131,1198,2026-05-23
+Ecole primaire Blanc,Ecole primaire,Bayonne,43.4744,-1.5014,425,2026-03-19
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-02-02
+Creche Bonnet,Creche,Rennes,48.1159,-1.6573,482,2026-05-16
+Centre de loisirs Leroy,Centre de loisirs,Quimper,48.0064,-4.0982,914,2026-03-10
+Ecole primaire Vincent,Ecole primaire,Orleans,47.9185,1.9199,956,2026-06-07
+Ecole primaire Girard,Ecole primaire,Chambery,45.5379,5.9475,767,2026-01-03
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,305,2026-02-24
+Ecole primaire Fontaine,Ecole primaire,Tours,47.4141,0.7113,1126,2026-01-03
+Centre de loisirs Lambert,Centre de loisirs,Nantes,47.2467,-1.5380,966,2026-06-07
+Creche Petit,Creche,Bordeaux,44.8243,-0.5836,255,2026-06-10
+Creche Martin,Creche,Nice,43.7262,7.2878,1020,2026-06-08
+College Dubois,College,Nice,43.7396,200.0,225,2026-01-01
+Ecole primaire Vincent,Ecole primaire,Orleans,47.9185,1.9199,956,2026-06-05
+College Girard,College,Rouen,49.4659,1.1109,898,2026-02-13
+Creche Roux,Creche,Annecy,45.8819,6.1190,1138,2026-01-05
+College Girard,College,Rouen,49.4659,1.1109,898,2026-03-11
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-03-20
+Lycee Martin,Lycee,Limoges,45.8584,1.2436,1011,2026-04-21
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-04-16
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-03-20
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,,305,2026-06-20
+Ecole primaire Blanc,Ecole primaire,Bayonne,43.4744,-1.5014,425,2026-02-02
+Ecole primaire Girard,Ecole primaire,Lille,50.6203,3.0374,925,2026-06-18
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-06-13
+Centre de loisirs Vincent,Centre de loisirs,Vannes,47.6463,-2.7393,384,2026-04-10
+Ecole primaire Vincent,Ecole primaire,Brest,48.4203,-4.4786,283,2026-01-16
+Lycee Bonnet,Lycee,Angers,47.4666,-0.5414,274,2026-05-05
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-01-17
+Lycee Petit,Lycee,Quimper,48.0238,-4.1131,1198,2026-04-02
+Ecole primaire Blanc,Ecole primaire,Bayonne,43.4744,-1.5014,425,2026-02-16
+College Girard,College,Orleans,47.9303,1.9321,1049,2026-01-02
+College Blanc,College,Chambery,45.5504,5.9003,779,2026-02-26
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-03-11
+Centre de loisirs Michel,Centre de loisirs,Colmar,48.0712,7.3817,984,2026-02-01
+,Creche,Bordeaux,44.8243,-0.5836,255,2026-05-09
+College Rousseau,College,Rouen,49.4259,1.1070,598,2026-06-17
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-01-03
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-05-08
+College Rousseau,College,Rouen,49.4259,1.1070,598,2026-02-06
+Centre de loisirs Petit,Centre de loisirs,Toulouse,43.6060,1.4384,114,2026-04-21
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-04-27
+Centre de loisirs Dubois,Centre de loisirs,Grenoble,45.1974,5.7210,703,2026-04-21
+College Girard,College,Rouen,49.4659,1.1109,898,2026-04-16
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-03-05
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-04-12
+College Girard,College,Rouen,49.4659,1.1109,898,2026-03-01
+Creche Martin,Creche,Nice,43.7262,7.2878,1020,2026-02-16
+Creche Petit,Creche,Amiens,49.8753,2.2807,106,2026-02-04
+College Blanc,College,Chambery,45.5504,5.9003,779,2026-03-01
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-06-08
+Ecole primaire Vincent,Ecole primaire,Orleans,47.9185,1.9199,956,2026-03-03
+Centre de loisirs Dubois,Centre de loisirs,Grenoble,45.1974,5.7210,703,2026-04-21
+Lycee Fournier,Lycee,Angers,47.4701,-0.5818,839,2026-04-16
+Creche Lambert,Creche,Metz,49.1360,6.1760,386,2026-01-15
+Centre de loisirs Roux,Centre de loisirs,Reims,49.2859,4.0507,1121,2026-05-15
+Centre de loisirs Dubois,Centre de loisirs,Grenoble,45.1974,5.7210,703,2026-03-22
+Creche Petit,Creche,Amiens,49.8753,2.2807,106,2026-04-28
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-02-09
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-02-15
+Creche Petit,  CRECHE  , montpellier ,43.6070,3.8841,223,2026-06-01
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-04-16
+Lycee Martin,Lycee,Limoges,45.8584,1.2436,1011,2026-04-16
+Creche Lambert,Creche,Lorient,47.7481,-3.3477,510,2026-01-08
+College Dubois,College,Nice,43.7396,7.2339,225,2026-01-12
+Lycee Chevalier,Lycee,Pau,43.3109,-0.3483,129,2026-06-28
+Creche Lambert,Creche,Metz,49.1360,6.1760,386,2026-04-16
+Centre de loisirs Dubois,Centre de loisirs,Grenoble,45.1974,5.7210,703,2026-05-17
+,,,,,,
+Centre de loisirs Roux,Centre de loisirs,Reims,49.2859,4.0507,1121,2026-04-14
+College Girard,College,Orleans,47.9303,1.9321,1049,2026-04-25
+Centre de loisirs Bonnet,Centre de loisirs,Strasbourg,48.5649,7.7645,,2026-03-13
+Lycee Bonnet,Lycee,Angers,47.4666,-0.5414,274,2026-01-28
+College Girard,College,Rouen,49.4659,1.1109,898,2026-05-20
+Lycee Petit,Lycee,Quimper,48.0238,-4.1131,1198,2026-02-09
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-05-10
+Creche Bonnet,Creche,Rennes,48.1159,-1.6573,482,2026-06-03
+Creche Petit,Creche,Perpignan,42.6872,2.8663,319,2026-03-10
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-05-06
+Creche Bonnet,Creche,Rennes,48.1159,-1.6573,482,2026-03-19
+Centre de loisirs Roux,Centre de loisirs,Reims,49.2859,4.0507,1121,2026-03-05
+Centre de loisirs Roux,Centre de loisirs,Reims,49.2859,4.0507,1121,2026-04-07
+Creche Petit,Creche,Perpignan,42.6872,2.8663,319,2026-02-18
+Centre de loisirs Michel,Centre de loisirs,Colmar,48.0712,7.3817,984,2026-02-19
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-02-28
+Creche Bonnet,Creche,Rennes,48.1159,-1.6573,482,2026-04-28
+Creche Martin,Creche,Quimper,48.0020,-4.0691,0,2026-04-02
+Centre de loisirs Roux,Centre de loisirs,Reims,49.2859,4.0507,1121,2026-02-23
+Ecole primaire Dubois,Ecole primaire,Annecy,45.8881,6.1276,666,2026-01-24
+Ecole primaire Girard,Ecole primaire,Chambery,45.5379,5.9475,767,2026-06-24
+Centre de loisirs Petit,Centre de loisirs,Toulouse,43.6060,1.4384,114,2026-01-21
+Centre de loisirs Vincent,Centre de loisirs,Vannes,47.6463,-2.7393,384,2026-04-02
+Lycee Petit,Lycee,Reims,49.2391,4.0474,1173,2026-01-13
+Ecole primaire Roux,Ecole primaire,Angers,47.5013,-0.5791,291,2026-05-08
+Lycee Bonnet,Lycee,Angers,47.4666,-0.5414,274,2026-06-16
+College Girard,College,Orleans,-91.0,1.9321,1049,2026-04-14
+College Girard,College,Orleans,47.9303,1.9321,1049,2026-04-02
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-04-22
+Lycee Petit,Lycee,Reims,49.2391,4.0474,1173,2026-04-03
+Creche Bonnet,Creche,Rennes,48.1159,-1.6573,482,2026-03-19
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-01-11
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-01-22
+Centre de loisirs Leroy,Centre de loisirs,Quimper,48.0064,-4.0982,914,2026-04-25
+Centre de loisirs Leroy,Centre de loisirs,Quimper,48.0064,-4.0982,914,2026-04-01
+College Dubois,College,Nice,43.7396,7.2339,225,2026-05-20
+Lycee Chevalier,Lycee,Bayonne,43.5103,-1.4477,684,2026-01-24
+Creche Lambert,Creche,Lorient,47.7481,-3.3477,510,2026-04-24
+,,,,,,
+Lycee Chevalier,Lycee,Pau,43.3109,-0.3483,129,2026-03-18
+Creche Petit,Creche,Bordeaux,44.8243,-0.5836,255,2026-01-12
+Ecole primaire Petit,Ecole primaire,Colmar,48.0913,7.3346,1119,2026-05-14
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-04-02
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-02-01
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-01-23
+Ecole primaire Blanc,Ecole primaire,Bayonne,43.4744,-1.5014,425,2026-03-14
+Lycee Michel,Lycee,Chambery,45.5679,5.9069,1058,2026-02-18
+College Girard,College,Orleans,inconnue,1.9321,1049,2026-03-08
+Lycee Michel,Lycee,Chambery,45.5679,5.9069,1058,2026-03-26
+Creche Petit,Creche,Amiens,49.8753,2.2807,106,2026-03-26
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-04-02
+Creche Petit,Creche,Bordeaux,44.8243,-0.5836,255,2026-04-17
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-04-19
+Ecole primaire Roux,Ecole primaire,Angers,47.5013,-0.5791,291,2026-05-10
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-02-11
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-03-12
+Lycee Chevalier,Lycee,Pau,43.3109,-0.3483,129,2026-01-27
+Ecole primaire Petit,Ecole primaire,Colmar,48.0913,7.3346,1119,2026-01-07
+Lycee Leroy,Lycee,Metz,49.1395,6.1466,180,2026-01-25
+Ecole primaire Blanc,Ecole primaire,Bayonne,43.4744,-1.5014,425,2026-06-20
+College Girard,College,Rouen,49.4659,1.1109,898,2026-06-17
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-05-01
+Ecole primaire Leroy,Ecole primaire,Marseille,43.2878,5.3984,593,2026-04-10
+Creche Girard,Creche,Amiens,49.8929,2.2942,570,2026-06-09
+Creche Petit,Creche,Bordeaux,44.8243,-0.5836,255,2026-03-19
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-01-17
+Ecole primaire Roux,  ECOLE PRIMAIRE  , angers ,47.5013,-0.5791,291,2026-01-10
+Ecole primaire Laurent,Ecole primaire,Caen,49.1676,-0.3459,618,2026-01-07
+Lycee Petit,Lycee,Reims,49.2391,4.0474,1173,2026-04-24
+Ecole primaire Vincent,Ecole primaire,Brest,48.4203,-4.4786,283,2026-01-16
+Centre de loisirs Chevalier,Centre de loisirs,Lorient,47.7590,-3.3532,1134,2026-06-02
+Centre de loisirs Fontaine,Centre de loisirs,Strasbourg,48.5945,7.7455,775,2026-06-28
+Creche Roux,Creche,Annecy,45.8819,6.1190,1138,2026-01-05
+Centre de loisirs Bonnet,Centre de loisirs,Brest,48.3843,-4.4659,1118,2026-05-13
+Lycee Fournier,Lycee,Angers,47.4701,-0.5818,839,2026-04-07
+Creche Petit,Creche,Montpellier,43.6070,3.8841,223,2026-03-20
+Creche Martin,Creche,Quimper,48.0020,-4.0691,338,2026-05-26
+Ecole primaire Dubois,Ecole primaire,Annecy,45.8881,6.1276,666,2026-01-06
+Centre de loisirs Fontaine,Centre de loisirs,Strasbourg,48.5945,7.7455,775,2026-02-24
+College Blanc,College,Chambery,45.5504,5.9003,779,2026-02-16
+College Rousseau,College,Rouen,,1.1070,598,2026-03-08
+Centre de loisirs Girard,Centre de loisirs,Lorient,47.7537,-3.3422,1116,2026-05-06
